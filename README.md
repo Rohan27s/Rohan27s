@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate frontend developer and also have good knowledge of Machine learning</h3>
+<h3 align="center">A passionate frontend developer,  having good knowledge of Machine learning too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan27s&label=Profile%20views&color=0e75b6&style=flat" alt="rohan27s" /> </p>
 
