@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [OSS-REVIEW-TOOLKIT](https://github.com/oss-review-toolkit/ort)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan27s?tab=projects](https://github.com/Rohan27s?tab=projects)
 
