@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309"></h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan27s&label=Profile%20views&color=0e75b6&style=flat" alt="rohan27s" /> </p>
 
