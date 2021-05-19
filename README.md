@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rohan27s?tab=projects](https://github.com/Rohan27s?tab=projects)
+
 
 - 📫 How to reach me **rohangotwal3@gmail.com**
 
