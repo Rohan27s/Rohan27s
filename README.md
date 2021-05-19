@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309"></h1>
-<h3 align="center">A PASSIONATE FRONTEND DEVELOPER</h3>
+<h3 align="center">A PASSIONATE MERN DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan27s&label=Profile%20views&color=0e75b6&style=flat" alt="rohan27s" /> </p>
 
@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/rohan27s" target="blank"><img src="https://img.shields.io/twitter/follow/rohan27s?logo=twitter&style=for-the-badge" alt="rohan27s" /></a> </p>
 
-- 🔭 I’m currently working on [OSS-REVIEW-TOOLKIT](https://github.com/oss-review-toolkit/ort)
+- 🔭 I’m currently working on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
 
-- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan27s?tab=projects](https://github.com/Rohan27s?tab=projects)
 
