@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohan27s" target="blank"><img src="https://img.shields.io/twitter/follow/rohan27s?logo=twitter&style=for-the-badge" alt="rohan27s" /></a> </p>
 
-- 🔭 I’m currently working on [Algo-Tree](https://github.com/Algo-Phantoms/Algo-Tree)
+- 🔭 Associate SDE at <a href="https://www.eventgraphia.com/" target="blank">EventGraphia</a> 
 
 
 
