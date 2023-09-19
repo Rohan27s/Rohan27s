@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohan27s" target="blank"><img src="https://img.shields.io/twitter/follow/rohan27s?logo=twitter&style=for-the-badge" alt="rohan27s" /></a> </p>
 
-- 🔭 Associate SDE at <a href="https://www.eventgraphia.com/" target="blank">EventGraphia</a> 
+- 🔭 SDE - 1  at <a href="https://nordstone.co.uk/" target="blank">Nordstone</a> 
 
 
 
